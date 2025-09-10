@@ -4,3 +4,5 @@ matplotlib
 scipy
 lightkurve
 scikit-learn
+fastapi
+uvicorn

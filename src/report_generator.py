@@ -1,10 +1,16 @@
+import os
+
 import pandas as pd
+
+REPORT_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'result_report.txt')
+
 
 def run():
     print("Gerando relatório...")
     try:
+        os.makedirs('data', exist_ok=True)
         features = pd.read_csv("data/features.csv")
-        with open("data/result_report.txt", "w") as f:
+        with open(REPORT_PATH, "w") as f:
             for i, row in features.iterrows():
                 label = "Exoplaneta detectado" if row['is_exoplanet'] == 1 else "Sem evidência de exoplaneta"
                 f.write(f"Alvo analisado: {row['target_name']}\n")

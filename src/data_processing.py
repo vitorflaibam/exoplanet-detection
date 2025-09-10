@@ -1,4 +1,4 @@
-import numpy as np
+import os
 import pandas as pd
 from lightkurve import search_lightcurve
 from scipy.signal import find_peaks
@@ -92,6 +92,7 @@ def main():
         except Exception as e:
             print(f"Falha ao processar {target_name}: {e}")
     df = pd.DataFrame(records)
+    os.makedirs("data", exist_ok=True)
     df.to_csv("data/features.csv", index=False)
     print("Dataset completo salvo em data/features.csv")
 
