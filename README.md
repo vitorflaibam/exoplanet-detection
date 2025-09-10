@@ -60,18 +60,3 @@ python main.py
 
 **Obs:** O projeto é totalmente aberto à expansão e ajustes! A comunidade astronômica e de dados é muito bem-vinda para contribuir!
 
----
-<span style="display:none">[^1][^2][^3][^4][^5]</span>
-
-<div style="text-align: center">⁂</div>
-
-[^1]: main.py
-
-[^2]: ml_model.py
-
-[^3]: feature_extraction.py
-
-[^4]: report_generator.py
-
-[^5]: data_processing.py
-
