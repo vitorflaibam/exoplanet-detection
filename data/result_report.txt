@@ -1,0 +1,63 @@
+Alvo analisado: Kepler-10
+Resultado do modelo: Exoplaneta detectado
+Variação no brilho da estrela (desvio padrão): 0.000225
+Assimetria do brilho (skewness): 0.015
+Kurtosis do brilho: -0.119
+Profundidade média de possíveis trânsitos: 0.001
+Período estimado entre trânsitos: 0.010
+Duração estimada do trânsito: 0.010
+-----------------------------
+Alvo analisado: Kepler-22
+Resultado do modelo: Exoplaneta detectado
+Variação no brilho da estrela (desvio padrão): 0.000299
+Assimetria do brilho (skewness): 0.010
+Kurtosis do brilho: -0.037
+Profundidade média de possíveis trânsitos: 0.001
+Período estimado entre trânsitos: 0.010
+Duração estimada do trânsito: 0.010
+-----------------------------
+Alvo analisado: Kepler-62
+Resultado do modelo: Exoplaneta detectado
+Variação no brilho da estrela (desvio padrão): 0.000169
+Assimetria do brilho (skewness): -0.021
+Kurtosis do brilho: 0.420
+Profundidade média de possíveis trânsitos: 0.001
+Período estimado entre trânsitos: 0.298
+Duração estimada do trânsito: 0.298
+-----------------------------
+Alvo analisado: Kepler-452
+Resultado do modelo: Exoplaneta detectado
+Variação no brilho da estrela (desvio padrão): 0.000153
+Assimetria do brilho (skewness): 0.033
+Kurtosis do brilho: 0.305
+Profundidade média de possíveis trânsitos: 0.001
+Período estimado entre trânsitos: 0.297
+Duração estimada do trânsito: 0.297
+-----------------------------
+Alvo analisado: Kepler-186
+Resultado do modelo: Exoplaneta detectado
+Variação no brilho da estrela (desvio padrão): 0.000410
+Assimetria do brilho (skewness): -0.212
+Kurtosis do brilho: 0.156
+Profundidade média de possíveis trânsitos: 0.001
+Período estimado entre trânsitos: 0.298
+Duração estimada do trânsito: 0.298
+-----------------------------
+Alvo analisado: KIC 10264202
+Resultado do modelo: Sem evidência de exoplaneta
+Variação no brilho da estrela (desvio padrão): 0.016126
+Assimetria do brilho (skewness): -2.739
+Kurtosis do brilho: 7.036
+Profundidade média de possíveis trânsitos: 0.075
+Período estimado entre trânsitos: 0.297
+Duração estimada do trânsito: 0.297
+-----------------------------
+Alvo analisado: KIC 8462852
+Resultado do modelo: Sem evidência de exoplaneta
+Variação no brilho da estrela (desvio padrão): 0.000222
+Assimetria do brilho (skewness): -2.075
+Kurtosis do brilho: 14.095
+Profundidade média de possíveis trânsitos: 0.002
+Período estimado entre trânsitos: 0.291
+Duração estimada do trânsito: 0.291
+-----------------------------

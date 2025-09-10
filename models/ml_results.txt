@@ -1,0 +1,1 @@
+Acurácia do modelo: 0.5
